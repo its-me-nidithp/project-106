@@ -1,0 +1,21 @@
+body{
+
+    font-size: 20;
+    font-family: cursive;
+    background-color: red;
+    color: #ffffff;
+
+}
+
+
+.copy_right_footer{
+
+    bottom: 0;
+    position: fixed;
+    background-color: black;
+    color: #ffffff;
+    width: 100%;
+    font-size: 20;
+    font-family: cursive;
+    
+    }
